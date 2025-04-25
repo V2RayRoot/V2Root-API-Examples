@@ -1,0 +1,5 @@
+libv2root.so
+v2ray
+*.o
+*.out
+*.exe
